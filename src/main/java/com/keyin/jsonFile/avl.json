@@ -1,0 +1,315 @@
+{
+  "key": 2,
+  "left": {
+    "key": 1,
+    "height": 12
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3,
+      "height": 12
+    },
+    "right": {
+      "key": 5,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 16,
+  "left": {
+    "key": 5,
+    "left": {
+      "key": 1,
+      "height": 12
+    },
+    "right": {
+      "key": 12,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 72,
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 83,
+  "left": {
+    "key": 23,
+    "left": {
+      "key": 9,
+      "height": 12
+    },
+    "right": {
+      "key": 81,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 84,
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3
+    },
+    "right": {
+      "key": 5
+    }
+  }
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1,
+    "height": 12
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3,
+      "height": 12
+    },
+    "right": {
+      "key": 5,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 14,
+  "left": {
+    "key": 13,
+    "height": 12
+  },
+  "right": {
+    "key": 29,
+    "left": {
+      "key": 18,
+      "height": 12
+    },
+    "right": {
+      "key": 34,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 83,
+  "left": {
+    "key": 23,
+    "left": {
+      "key": 9,
+      "height": 12
+    },
+    "right": {
+      "key": 81,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 84,
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 34,
+  "height": 12
+}
+-------------------
+{
+  "key": 13,
+  "left": {
+    "key": 6,
+    "height": 12
+  },
+  "right": {
+    "key": 27,
+    "left": {
+      "key": 14,
+      "height": 12
+    },
+    "right": {
+      "key": 34,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1,
+    "height": 12
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3,
+      "height": 12
+    },
+    "right": {
+      "key": 5,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3
+    },
+    "right": {
+      "key": 5
+    }
+  }
+}
+-------------------
+{
+  "key": 83,
+  "left": {
+    "key": 23,
+    "left": {
+      "key": 9
+    },
+    "right": {
+      "key": 81
+    }
+  },
+  "right": {
+    "key": 84
+  }
+}
+-------------------
+{
+  "key": 24,
+  "left": {
+    "key": 5,
+    "left": {
+      "key": 3,
+      "left": {
+        "key": 1
+      }
+    },
+    "right": {
+      "key": 15,
+      "left": {
+        "key": 9
+      },
+      "right": {
+        "key": 16
+      }
+    }
+  },
+  "right": {
+    "key": 99,
+    "left": {
+      "key": 82
+    }
+  }
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3
+    },
+    "right": {
+      "key": 5
+    }
+  }
+}
+-------------------
+{
+  "key": 2,
+  "left": {
+    "key": 1
+  },
+  "right": {
+    "key": 4,
+    "left": {
+      "key": 3
+    },
+    "right": {
+      "key": 5
+    }
+  }
+}
+---------------------------
+{
+  "key": 5,
+  "left": {
+    "key": 3,
+    "left": {
+      "key": 2,
+      "left": {
+        "key": 1
+      }
+    },
+    "right": {
+      "key": 4
+    }
+  },
+  "right": {
+    "key": 9,
+    "left": {
+      "key": 7,
+      "left": {
+        "key": 6
+      }
+    },
+    "right": {
+      "key": 15,
+      "left": {
+        "key": 12
+      },
+      "right": {
+        "key": 99
+      }
+    }
+  }
+}
+---------------------------

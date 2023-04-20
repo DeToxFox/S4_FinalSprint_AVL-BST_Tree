@@ -1,0 +1,315 @@
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5,
+          "height": 12
+        },
+        "height": 12
+      },
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 12,
+  "left": {
+    "key": 5,
+    "left": {
+      "key": 1,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 16,
+    "right": {
+      "key": 72,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 81,
+  "left": {
+    "key": 9,
+    "right": {
+      "key": 23,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 83,
+    "right": {
+      "key": 84,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5
+        }
+      }
+    }
+  }
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5,
+          "height": 12
+        },
+        "height": 12
+      },
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 13,
+  "right": {
+    "key": 14,
+    "right": {
+      "key": 18,
+      "right": {
+        "key": 29,
+        "right": {
+          "key": 34,
+          "height": 12
+        },
+        "height": 12
+      },
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 81,
+  "left": {
+    "key": 9,
+    "right": {
+      "key": 23,
+      "height": 12
+    },
+    "height": 12
+  },
+  "right": {
+    "key": 83,
+    "right": {
+      "key": 84,
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 34,
+  "height": 12
+}
+-------------------
+{
+  "key": 34,
+  "left": {
+    "key": 6,
+    "right": {
+      "key": 13,
+      "right": {
+        "key": 27,
+        "left": {
+          "key": 14,
+          "height": 12
+        },
+        "height": 12
+      },
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5,
+          "height": 12
+        },
+        "height": 12
+      },
+      "height": 12
+    },
+    "height": 12
+  },
+  "height": 12
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5
+        }
+      }
+    }
+  }
+}
+-------------------
+{
+  "key": 81,
+  "left": {
+    "key": 9,
+    "right": {
+      "key": 23
+    }
+  },
+  "right": {
+    "key": 83,
+    "right": {
+      "key": 84
+    }
+  }
+}
+-------------------
+{
+  "key": 16,
+  "left": {
+    "key": 15,
+    "left": {
+      "key": 1,
+      "right": {
+        "key": 3,
+        "right": {
+          "key": 5,
+          "right": {
+            "key": 9
+          }
+        }
+      }
+    }
+  },
+  "right": {
+    "key": 24,
+    "right": {
+      "key": 99,
+      "left": {
+        "key": 82
+      }
+    }
+  }
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5
+        }
+      }
+    }
+  }
+}
+-------------------
+{
+  "key": 1,
+  "right": {
+    "key": 2,
+    "right": {
+      "key": 3,
+      "right": {
+        "key": 4,
+        "right": {
+          "key": 5
+        }
+      }
+    }
+  }
+}
+---------------------------
+{
+  "key": 3,
+  "left": {
+    "key": 1,
+    "right": {
+      "key": 2
+    }
+  },
+  "right": {
+    "key": 5,
+    "left": {
+      "key": 4
+    },
+    "right": {
+      "key": 7,
+      "left": {
+        "key": 6
+      },
+      "right": {
+        "key": 9,
+        "right": {
+          "key": 12,
+          "right": {
+            "key": 15,
+            "right": {
+              "key": 99
+            }
+          }
+        }
+      }
+    }
+  }
+}
+---------------------------
