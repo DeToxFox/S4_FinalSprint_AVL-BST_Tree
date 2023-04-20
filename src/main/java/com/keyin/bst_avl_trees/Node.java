@@ -1,5 +1,12 @@
 package com.keyin.bst_avl_trees;
 
+/*
+ * Project: Final Sprint Project 2 - BST/AVL Tree
+ * Course Name: Software Development
+ * Written by: David Turner
+ * Due Date: April 21, 2023
+ */
+
 public class Node {
     private int key;
     private Node left;

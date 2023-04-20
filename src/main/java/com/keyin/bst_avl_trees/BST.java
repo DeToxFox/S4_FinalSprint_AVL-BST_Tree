@@ -1,5 +1,12 @@
 package com.keyin.bst_avl_trees;
 
+/*
+ * Project: Final Sprint Project 2 - BST/AVL Tree
+ * Course Name: Software Development
+ * Written by: David Turner
+ * Due Date: April 21, 2023
+ */
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.util.Comparator;
@@ -171,4 +178,4 @@ public class BST {
         Gson gson = gsonBuilder.create();
         return gson.toJson(this.root);
     }
-    }
+}

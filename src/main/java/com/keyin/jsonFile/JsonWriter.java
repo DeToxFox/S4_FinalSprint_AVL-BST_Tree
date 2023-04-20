@@ -1,8 +1,14 @@
 package com.keyin.jsonFile;
 
+/*
+ * Project: Final Sprint Project 2 - BST/AVL Tree
+ * Course Name: Software Development
+ * Written by: David Turner
+ * Due Date: April 21, 2023
+ */
+
 import java.io.FileWriter;
 import java.io.IOException;
-
 
 public class JsonWriter {
     // this will be accessed from CLI.java
@@ -14,5 +20,4 @@ public class JsonWriter {
             e.printStackTrace();
         }
     }
-
 }

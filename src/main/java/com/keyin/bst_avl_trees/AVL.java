@@ -1,9 +1,14 @@
 package com.keyin.bst_avl_trees;
 
+/*
+ * Project: Final Sprint Project 2 - BST/AVL Tree
+ * Course Name: Software Development
+ * Written by: David Turner
+ * Due Date: April 21, 2023
+ */
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import org.json.simple.JSONObject;
-import java.sql.SQLOutput;
 
 public class AVL extends BST {
     private static final int unbalancedRight = -2;
@@ -74,6 +79,7 @@ public class AVL extends BST {
         temp.setRight(node);
         return temp;
     }
+
     // rotationRR is used to rotate a node to the right
     private Node rotationRR(Node node){
         Node temp = node.getRight();
@@ -81,6 +87,7 @@ public class AVL extends BST {
         temp.setLeft(node);
         return temp;
     }
+
     // rotationLR is used to rotate a node to the left then to the right
     private Node rotationLR(Node node){
         Node temp = node.getLeft();
