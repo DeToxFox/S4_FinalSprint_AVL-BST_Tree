@@ -5,6 +5,6 @@
 
 - My CLI takes an input of numbers, and returns as a response a JSON representation of a binary search tree and a balanced AVL tree.
 
-- Notes:
+Notes:
 - No DB was used, stored using a write to file module.  
 -	Units Tests were done on the BST, AVL, Node and jsonFIle java files
