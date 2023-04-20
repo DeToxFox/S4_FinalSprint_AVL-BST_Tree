@@ -204,4 +204,12 @@ public class AVL extends BST {
         Gson gson = gsonBuilder.create();
         return gson.toJson(this.root);
     }
+
+    // this is for testing purposes only
+    public String getJSONRepresentation(Node root) {
+        GsonBuilder gsonBuilder = new GsonBuilder();
+        gsonBuilder.setPrettyPrinting();
+        Gson gson = gsonBuilder.create();
+        return gson.toJson(this.root);
+    }
 }

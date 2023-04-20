@@ -52,15 +52,15 @@ public class BST {
 
         // inOrderTraverse is used to traverse the tree in order from left to right
         // Consumer<Integer> callback is a function that will be called on each node
-        public void inOrderTraverse(Consumer<Integer> callback) {
-            inOrderTraverse(root, callback);
-        }
+//        public void inOrderTraverse(Consumer<Integer> callback) {
+//            inOrderTraverse(root, callback);
+//        }
 
-        public void inOrderTraverse(Node node, Consumer<Integer> callback) {
+        public void inOrderTraverse(Node node) {
             if (node != null) {
-                inOrderTraverse(node.getLeft(), callback);
-                callback.accept(node.getKey());
-                inOrderTraverse(node.getRight(), callback);
+                inOrderTraverse(node.getLeft());
+//                callback.accept(node.getKey());
+                inOrderTraverse(node.getRight());
             }
         }
 
@@ -177,5 +177,14 @@ public class BST {
         gsonBuilder.setPrettyPrinting();
         Gson gson = gsonBuilder.create();
         return gson.toJson(this.root);
+    }
+
+    // the method below is has been used only for the purpose of testing
+    // as it needed the parameter passed to it to be a node
+    public String getJsonRepresentation(Node root) {
+        GsonBuilder gsonBuilder = new GsonBuilder();
+        gsonBuilder.setPrettyPrinting();
+        Gson gson = gsonBuilder.create();
+        return gson.toJson(root);
     }
 }
